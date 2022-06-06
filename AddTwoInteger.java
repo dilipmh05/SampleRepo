@@ -5,7 +5,7 @@ class Main {
     System.out.println("Enter two numbers");
     int first = 10;
     int second = 20;
-    
+    //adding comment
     System.out.println(first + " " + second);
 
     // add two numbers
